@@ -1,0 +1,20 @@
+With DELTA=8, Flow Value=0
+With DELTA=4, Flow Value=4
+With DELTA=2, Flow Value=7
+With DELTA=1, Flow Value=8
+Max-flow value=8
+The max-flow:
+1 2 3
+1 4 1
+1 6 4
+2 3 3
+3 4 3
+5 4 4
+6 5 4
+
+Min-cut capacity=8
+The min-cut:
+The set S:
+1, 
+The set T:
+2, 3, 4, 5, 6, 
